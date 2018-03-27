@@ -33,4 +33,4 @@ The state also takes care to distinguish between the types of compelled speech. 
 
 _Got it?_
 
-This is a really quick and dirty look at the case. I would encourage anyone interested to at the very least read the wording of the law itself. The briefs of the parties are a bit long but I think they're worth skimming. The NILFA brief is linked above, you can find the State's brief [here](https://www.supremecourt.gov/DocketPDF/16/16-1140/35961/20180220155129758_2018.02.20.ussc.16-1140.jak.state_resp_merits_brief.pdf). Now, go out and argue responsibly.
+This is a really quick and dirty look at the case. I would encourage anyone interested to at the very least read the wording of the law itself. The briefs of the parties are a bit long but I think they're worth skimming. The NIFLA brief is linked above, you can find the State's brief [here](https://www.supremecourt.gov/DocketPDF/16/16-1140/35961/20180220155129758_2018.02.20.ussc.16-1140.jak.state_resp_merits_brief.pdf). Now, go out and argue responsibly.
