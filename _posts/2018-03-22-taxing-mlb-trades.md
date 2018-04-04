@@ -3,7 +3,7 @@ layout: post
 title:  "How About a Tax on Your Teams NFL Draft?"
 author: 
 categories: [ sports ]
-image: assets/images/goodell.jpg
+image: assets/images/goodell2.jpg
 featured: 
 ---
 
