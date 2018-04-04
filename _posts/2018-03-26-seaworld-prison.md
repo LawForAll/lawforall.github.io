@@ -3,7 +3,7 @@ layout: post
 title:  "Why SeaWorld Should Lobby for Orcas to Be Considered Legal Persons"
 author: 
 categories: [ nonhumans ]
-image: assets/images/orca.png
+image: assets/images/orca2.jpg
 featured: 
 ---
 
