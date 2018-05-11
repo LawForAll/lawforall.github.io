@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Free Range Parenting Bill: A Great Idea with Hidden Controversy"
+title:  "Free Range Parenting Bill with Hidden Controversy"
 author: 
 categories: [ legislate ]
 image: assets/images/hikingkid.jpg
