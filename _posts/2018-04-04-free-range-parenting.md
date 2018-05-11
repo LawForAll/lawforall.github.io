@@ -6,6 +6,7 @@ categories: [ legislate ]
 image: assets/images/hikingkid.jpg
 featured: 
 ---
+
 When I was growing up, every kid walked or rode home from school without supervision, went out into the woods unattended, and messed about near the bayou with no one thinking twice. Nowadays, that type of freedom and independence might land a parent in serious trouble. But Utah is changing that. Utah passed a bill being hailed as a model for the rest of the country, while also making some changes that may not be so roundly lauded. 
 
 Essentially, the bill redefines what constitutes child neglect under the law. Specifically, S.B. 65 adds the following language:
